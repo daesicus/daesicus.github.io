@@ -1,0 +1,1 @@
+If you have translated the adapt theme to another language open a new issue or submit a pull-request on the Github repository: https://github.com/wpexplorer/wpex-adapt
